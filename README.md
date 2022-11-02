@@ -37,7 +37,3 @@ As of right now the project is completed, but honestly the model could perform b
 
 To run the code for yourself with a query of your choosing, first fork the code and open get tweets for sentiment. Start by changing the api key info to your own api key. I used configparser and created a seperate file to hold my api keys. Enter your query and the number of tweets you would like, edit the file name, and run the code. This will output a csv file of your tweets which you will then run the model on in seniment models. In the sentiment models file you simply need to access the file path for your tweets and then run the code on it.
 
-
-
-
-Relevant Data is being kept ['here']('https://github.com/jarrod7800/Twitter-Sentiment-Analysis/tree/main/Twitter_Sentiment_Analysis/CSVs') within this repo.
