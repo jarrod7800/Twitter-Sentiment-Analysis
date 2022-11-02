@@ -9,24 +9,24 @@
 
 ### Project Intro/Objective
 
-The purpose of this project is to explore the twitter api, and to fit different classification models onto the data and then predict a tweet's seniment. The labels for sentiment are: Negative, Neutral, and Positive. We will use metrics like f-1 score ROC graphs to to gauge performance then will show top 2 performing. 
+The purpose of this project is to explore the twitter api, and to fit different classification models onto the data and then predict a tweet's seniment. The labels for sentiment are: Negative, Neutral, and Positive. We will use metrics like f-1 score and ROC graphs to to gauge performance then will show top two performing. 
 
 
-### Methods Used
+### Methods Used -
 
-Natural Language Processing
-Machine Learning
+- Natural Language Processing
+- Machine Learning
 
 
-### Technologies
+### Technologies -
 
-Tweepy API
-SciKit Learn
-NLTK
-Numpy
-Python
-Pandas
-Jupyter
+- Tweepy API
+- SciKit Learn
+- NLTK
+- Numpy
+- Python
+- Pandas
+- Jupyter
 
 
 ### Project Description - 
@@ -40,4 +40,4 @@ To run the code for yourself with a query of your choosing, first fork the code 
 
 
 
-Relevant Data is being kept [here]('https://github.com/jarrod7800/Twitter-Sentiment-Analysis/tree/main/Twitter_Sentiment_Analysis/CSVs') within this repo.
+Relevant Data is being kept ['here']('https://github.com/jarrod7800/Twitter-Sentiment-Analysis/tree/main/Twitter_Sentiment_Analysis/CSVs') within this repo.
